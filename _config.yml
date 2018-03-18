@@ -1,10 +1,10 @@
 # ----------- CONFIGURABLE START -----------
-title:            "LiberXue|FullStack|独立开发者|jekyll blog|GitHub blog"
-description:      "Full Stack独立开发者|欢迎来到 LiberXue「角落」侃侃理想、谈谈人生、敲敲代码。"
+title:            "Scofield Yuan|前端开发初学者|jekyll blog|GitHub blog"
+description:      "I AM 袁野|欢迎来到我的博客，侃侃理想、谈谈人生、敲敲代码。"
 url:              https://kdyy88.top # 域名
-signoff:          "LiberXue" # Your name
+signoff:          "ScofieldYuan" # Your name
 facebook_appid:   #liberxue
-google_analytics: UA-101222464-1
+google_analytics: UA-102045667-1
 share:            true
 # 分页
 paginate: 15
